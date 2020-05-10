@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/Boulder.png</file>
+        <file>res/Ground.jpeg</file>
+        <file>res/Mark.png</file>
+        <file>res/Pain.png</file>
+        <file>res/PainShadow.png</file>
+        <file>res/Wall.png</file>
+        <file>res/BoulderMatched.png</file>
+        <file>Level 1.txt</file>
+        <file>Level 2.txt</file>
+        <file>res/BackGround.jpg</file>
+        <file>res/Kunai.png</file>
+        <file>res/Level 1.png</file>
+        <file>res/Level 2.png</file>
+        <file>res/LoadSavedGame.png</file>
+        <file>res/Quit.png</file>
+        <file>res/StartGame.png</file>
+        <file>res/Title.png</file>
+        <file>res/CollapsedWall.png</file>
+        <file>res/GamePremise.png</file>
+        <file>res/Girei.mp3</file>
+        <file>res/FeelThePain.mp3</file>
+        <file>res/TitleBlack.png</file>
+        <file>res/TitleBlue.png</file>
+        <file>res/TitlePurple.png</file>
+    </qresource>
+</RCC>
