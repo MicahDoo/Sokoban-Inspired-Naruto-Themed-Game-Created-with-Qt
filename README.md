@@ -8,7 +8,7 @@ In my version, the player bushes big stones onto marks.
 ## Video link
 
 
-https://www.youtube.com/watch?v=1e-kAJEDCY8
+https://www.youtube.com/watch?v=8cm1AlrkG7o
 
 
 ## How to play
